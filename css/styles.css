@@ -10927,7 +10927,7 @@ html {
   color: #030303;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
-  color: #212529;
+  color: #030303;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
   color: #030303;
@@ -10951,7 +10951,7 @@ html {
     margin-top: 0;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
-    color: #212529;
+    color: #030303;
     background: transparent;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
